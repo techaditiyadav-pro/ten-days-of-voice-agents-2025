@@ -1,0 +1,40 @@
+[
+  {
+    "order_id": "ORD-1764319571",
+    "customer_name": "Aditi yadav",
+    "address": "Vijay Nagar, House Number 1827, Shavarpur, Madhya Pradesh, 482001",
+    "items": [
+      {
+        "id": "peanut_butter",
+        "name": "Peanut Butter (200g)",
+        "qty": 1,
+        "unit_price": 180,
+        "subtotal": 180
+      },
+      {
+        "id": "samosa_2",
+        "name": "Samosa (2 pcs)",
+        "qty": 2,
+        "unit_price": 30,
+        "subtotal": 60
+      },
+      {
+        "id": "milk_1l",
+        "name": "Milk 1L",
+        "qty": 1,
+        "unit_price": 55,
+        "subtotal": 55
+      },
+      {
+        "id": "eggs_6",
+        "name": "Eggs (6 pcs)",
+        "qty": 6,
+        "unit_price": 60,
+        "subtotal": 360
+      }
+    ],
+    "total": 655.0,
+    "timestamp": "2025-11-28T14:16:11.058940",
+    "status": "placed"
+  }
+]

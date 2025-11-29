@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-11-29T12:38:18.598444",
+    "story": [
+      {
+        "ts": "2025-11-29T12:28:21.028308",
+        "actor": "player",
+        "text": "The player heads to the Old Lighthouse."
+      },
+      {
+        "ts": "2025-11-29T12:32:52.803747",
+        "actor": "player",
+        "text": "The player investigates the old machinery and searches for clues inside the lighthouse."
+      },
+      {
+        "ts": "2025-11-29T12:36:07.807204",
+        "actor": "player",
+        "text": "The player attempts to decipher the inscription."
+      },
+      {
+        "ts": "2025-11-29T12:37:21.525216",
+        "actor": "player",
+        "text": "The player has finished their adventure in the lighthouse, having deciphered a cryptic inscription."
+      }
+    ]
+  }
+]

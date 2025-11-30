@@ -36,5 +36,25 @@
     "total": 655.0,
     "timestamp": "2025-11-28T14:16:11.058940",
     "status": "placed"
+  },
+  {
+    "id": "bfc477fd-bced-4aae-93c5-4b3e05e1b8d5",
+    "created_at": "2025-11-30T14:07:27.707463Z",
+    "status": "CONFIRMED",
+    "items": [
+      {
+        "product_id": "tshirt-001",
+        "name": "Cotton Crew Neck T-Shirt",
+        "quantity": 4,
+        "unit_price": 450,
+        "currency": "INR",
+        "item_total": 1800
+      }
+    ],
+    "total": 1800,
+    "currency": "INR",
+    "buyer": {
+      "name": "Voice Customer"
+    }
   }
 ]
